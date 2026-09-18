@@ -53,6 +53,12 @@ simple-generation:
 
 Плагин переживает рестарт сервера и любые паузы: если прогрузка мира была прервана (сервер перезапущен, игрок зашёл, `/chunkyqueue stop`), при следующем запуске/резюме она продолжится через `chunky continue` с того же места, а не начнётся заново.
 
+## Помощь и обратная связь
+
+Вопросы, баги и идеи — в Discord сообщества KOZYR, форум **🗺┃kozyr-chunky-queue**: https://discord.gg/6g6VqENtvU
+
+При сообщении о баге укажите версию сервера (Paper/Purpur/Leaf…), версию Chunky и плагина, приложите `config.yml` и лог.
+
 ## Сборка из исходников
 
 Без Maven/Gradle — просто `javac` + `jar`. Скрипт сам скачивает нужные для компиляции jar'ы (paper-api, Chunky, adventure, bungeecord-chat, jetbrains annotations) в `.deps/` (не входит в git).
