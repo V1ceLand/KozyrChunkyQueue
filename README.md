@@ -55,7 +55,8 @@ simple-generation:
 
 ## Помощь и обратная связь
 
-Баги и вопросы — в Discord сообщества KOZYR, раздел **🗺 CHUNKY QUEUE** (каналы «баги» и «помощь»): https://discord.gg/6g6VqENtvU
+Баги и вопросы — в Discord сервера KOZYR SMP: https://discord.gg/NQjHG9EF4v
+или мне в личку в Discord (kozyr.r): https://discord.com/users/741923152019324949
 
 При сообщении о баге укажите версию сервера (Paper/Purpur/Leaf…), версию Chunky и плагина, приложите `config.yml` и лог.
 

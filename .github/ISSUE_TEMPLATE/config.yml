@@ -1,5 +1,8 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Discord «by KOZYR» — помощь и баги / help & bug reports
-    url: https://discord.gg/6g6VqENtvU
-    about: Раздел 🗺 CHUNKY QUEUE — каналы «баги» и «помощь».
+  - name: Discord KOZYR SMP — помощь и баги
+    url: https://discord.gg/NQjHG9EF4v
+    about: Discord-сервер KOZYR SMP.
+  - name: KOZYR в Discord (личные сообщения)
+    url: https://discord.com/users/741923152019324949
+    about: Написать автору плагина напрямую (kozyr.r).
